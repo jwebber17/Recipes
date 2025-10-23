@@ -4,12 +4,13 @@
 - Avocado  
 - Coriander  
 - Red onion  
-- Lemon juice  
+- Lemon juice
+- Lime juice  
 - Salt  
 
 ## Instructions
 1. Mash avacado
 2. chop coriander and red oiion.
-3. Add salt, lemon juice
+3. Add salt, lemon and lime juice
 4. Enjoy!
 
